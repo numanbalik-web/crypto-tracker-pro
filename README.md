@@ -29,7 +29,7 @@ The application is designed to simulate real-world financial dashboards with a m
 
 ## 🖥️ Dashboard Preview
 
-![Main Dashboard](screen/screen1.png)
+![Market Data](screen/screen1.png)
 
 A structured and user-friendly dashboard displaying key crypto data.
 
@@ -88,10 +88,28 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Numan Balık
+---
+
+## 👨‍💻 Author & Contact
+
+<p align="center">
+  <a href="https://linkedin.com/in/numan-balik-sverige" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Numan%20Balık-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:numanbalik72@gmail.com">
+    <img src="https://img.shields.io/badge/Email-numanbalik72%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 Open to opportunities in Frontend Development  
+</p>
+
+---
 
 ---
 
 ## 🙏 Acknowledgment
 
-Special thanks to my instructor **Mehmet Can Seyhan**, ** furkan evin** and the **Udemig** team for their support.
+Special thanks to my instructor **https://github.com/isveckrali**, **https://github.com/furkanevin** and the **https://github.com/Udemig** team for their support.
