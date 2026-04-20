@@ -29,7 +29,7 @@ The application is designed to simulate real-world financial dashboards with a m
 
 ## 🖥️ Dashboard Preview
 
-![Market Data](screen/screen1.png)
+![Market Data](sceern/sceern1.png)
 
 A structured and user-friendly dashboard displaying key crypto data.
 
