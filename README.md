@@ -29,7 +29,7 @@ The application is designed to simulate real-world financial dashboards with a m
 
 ## 🖥️ Dashboard Preview
 
-![Market Data](sceern/sceern1.png)
+![Main Screen](screen/sceern1.png)
 
 A structured and user-friendly dashboard displaying key crypto data.
 
@@ -83,10 +83,6 @@ npm run dev
 - Clean and scalable frontend structure  
 - Optimized performance with Vite  
 - Modern UI focused on usability  
-
----
-
-## 👨‍💻 Author
 
 ---
 
