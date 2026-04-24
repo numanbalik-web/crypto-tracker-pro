@@ -7,7 +7,9 @@ A modern cryptocurrency tracking application built with React and Vite.
 This project focuses on real-time data visualization, performance, and clean UI design.
 
 ---
-
+## VISIT LINK
+project link: https://cryptotracker-flax-phi.vercel.app/
+---
 ## 🚀 Overview
 
 Crypto Tracker allows users to monitor cryptocurrency prices, analyze trends, and explore market data in a fast and responsive interface.
